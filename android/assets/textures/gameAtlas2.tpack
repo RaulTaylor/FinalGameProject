@@ -1,0 +1,61 @@
+gameAtlas2.png
+size: 858, 899
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_star
+  rotate: false
+  xy: 391, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btnToMenu
+  rotate: false
+  xy: 1, 131
+  size: 576, 142
+  orig: 576, 142
+  offset: 0, 0
+  index: -1
+btPlay
+  rotate: false
+  xy: 1, 275
+  size: 576, 142
+  orig: 576, 142
+  offset: 0, 0
+  index: -1
+fog
+  rotate: false
+  xy: 131, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+mainShip
+  rotate: false
+  xy: 1, 470
+  size: 856, 428
+  orig: 856, 428
+  offset: 0, 0
+  index: -1
+plazma
+  rotate: false
+  xy: 579, 275
+  size: 68, 193
+  orig: 68, 193
+  offset: 0, 0
+  index: -1
+red_star
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yellow_star
+  rotate: false
+  xy: 261, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+logoAtlas.png
+size: 900, 996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+logo_company
+  rotate: false
+  xy: 1, 1
+  size: 898, 546
+  orig: 898, 546
+  offset: 0, 0
+  index: -1
+logo_game
+  rotate: false
+  xy: 1, 549
+  size: 764, 446
+  orig: 764, 446
+  offset: 0, 0
+  index: -1

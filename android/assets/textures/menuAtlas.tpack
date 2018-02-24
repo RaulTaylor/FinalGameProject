@@ -1,0 +1,75 @@
+menuAtlas.png
+size: 1816, 896
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_star
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btExit
+  rotate: false
+  xy: 131, 1
+  size: 576, 142
+  orig: 576, 142
+  offset: 0, 0
+  index: -1
+btnNo
+  rotate: false
+  xy: 709, 1
+  size: 360, 142
+  orig: 360, 142
+  offset: 0, 0
+  index: -1
+btnYes
+  rotate: false
+  xy: 1071, 1
+  size: 360, 142
+  orig: 360, 142
+  offset: 0, 0
+  index: -1
+btPlay
+  rotate: false
+  xy: 1, 145
+  size: 576, 142
+  orig: 576, 142
+  offset: 0, 0
+  index: -1
+close_label
+  rotate: false
+  xy: 579, 145
+  size: 1236, 302
+  orig: 1236, 302
+  offset: 0, 0
+  index: -1
+fog
+  rotate: false
+  xy: 1, 449
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+logo_game
+  rotate: false
+  xy: 131, 449
+  size: 764, 446
+  orig: 764, 446
+  offset: 0, 0
+  index: -1
+red_star
+  rotate: false
+  xy: 897, 449
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yellow_star
+  rotate: false
+  xy: 1027, 449
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
